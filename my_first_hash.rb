@@ -1,6 +1,5 @@
 def my_hash
-  places_gone = {"lived" => "Rantoul", "vacationed" => "Orlando","lived" => "Champaign","lived" => "Seymore","vacationed"=>"L.A",
-  "vacationed" => "San Francisco","lived"=> "Dallas"}
+  places_gone = {"lived" => "Rantoul", "vacationed" => "Orlando"}
   return my_hash
 end
 
